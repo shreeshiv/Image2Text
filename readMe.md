@@ -9,4 +9,4 @@ Mobile Vision is powerful API available in most Android devices. Some use-cases 
 2. Digitising documents
 3. Scanning vouchers, cards and etc.
 
-[Have a look at Github post](https://medium.com/@shreeshivpatel/text-recognition-from-image-using-mobile-vision-api-in-android-b604f433e2c4)
+[Have a look at Medium post](https://medium.com/@shreeshivpatel/text-recognition-from-image-using-mobile-vision-api-in-android-b604f433e2c4)
